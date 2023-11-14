@@ -7,7 +7,7 @@ val Victor = listOf(
     city: 'São Paulo, SP',
     languages: ['Portugues-BR', 'English', ],
     interests: ['Full Stack Developer', 'DevOps'],
-    hobbies: ['Studies & Reading', 'Programming', 'Backend' , 'Sports', 'Travelling'],
+    hobbies: ['Studies & Reading', 'Programming', 'Gym', 'Travelling'],
 )
 ```
 
